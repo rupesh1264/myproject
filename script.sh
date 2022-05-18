@@ -16,3 +16,6 @@ afkdnfaniwijjrgag;knsngnaknafalfnljafnajfnada
 afndjfnanruraejknfkknaksnkasfd
 anfdkkjanfjanwnfknalk
 akfdlkamflkmdlkafmiramkmas
+
+var g =5555
+vad h =ewerr
